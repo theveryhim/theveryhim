@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Arman 👋
 
-<!--
-**theveryhim/theveryhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am currently a B.Sc student in the Electrical Engineering Department at Sharif University of Technology, where I am deeply involved in cutting-edge research in the fields of AI and it's usage in Image processing & Analysis, Language processing and etc.
 
-Here are some ideas to get you started:
+## Research intrests 
+My primary research interests lie at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - Deep Learning
+    - Machine Learning
+    - Image Processing
+    - Text Processing
+    - Data Science
+
+I am passionate about exploring how these technologies can be harnessed to solve complex real-world problems and push the boundaries of current AI capabilities.
+
+## How to be in touch?
+Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
+
+- Email: [m.arman.yazdani@gmail.com](mailto:m.arman.yazdani@gmail.com)
+- Telegram: [https://telegram.me/theveryhim](TheVeryHim)
