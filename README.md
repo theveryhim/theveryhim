@@ -13,6 +13,10 @@ My primary research interests lie at the intersection of:
     - Data Science
 
 I am passionate about exploring how these technologies can be harnessed to solve complex real-world problems and push the boundaries of current AI capabilities.
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=theveryhim&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theveryhim&layout=compact&theme=radical)
 
 ## How to be in touch?
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
