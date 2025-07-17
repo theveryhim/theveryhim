@@ -21,5 +21,5 @@ I am passionate about exploring how these technologies can be harnessed to solve
 ## How to be in touch?
 Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect!
 
-- Email: [m.arman.yazdani@gmail.com](mailto:m.arman.yazdani@gmail.com)
-- Telegram: [https://telegram.me/theveryhim](TheVeryHim)
+- Email: [📧](mailto:m.arman.yazdani@gmail.com)
+- LinkedIn: [🤝:](https://www.linkedin.com/in/arman-yazdani)
