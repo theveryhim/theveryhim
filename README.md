@@ -6,10 +6,12 @@ I am currently a B.Sc student in the Electrical Engineering Department at Sharif
 ## Research intrests 
 My primary research interests lie at the intersection of:
 
+    - Computer vision
+    - Reinforcement learning
+    - Generative AI
+    - Natural language processing
     - Deep Learning
     - Machine Learning
-    - Image Processing
-    - Text Processing
     - Data Science
 
 I am passionate about exploring how these technologies can be harnessed to solve complex real-world problems and push the boundaries of current AI capabilities.
